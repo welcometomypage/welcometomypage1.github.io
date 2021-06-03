@@ -1,2 +1,2 @@
-# welcometomypage1.github.io
+# welcometomypage.github.io
 welcome
